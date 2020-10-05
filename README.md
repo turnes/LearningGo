@@ -6,7 +6,10 @@ Free Go course in Portuguese by Ellen Korbes.
 
 ## [Gophercises](https://gophercises.com/) 
 
-FREE coding exercises by Jon Calhoun
+Free coding exercises by Jon Calhoun
+
+## [Learn to Code - Golang Training](Learn To Code - Golang Training)
+Free - Playlist Youtube - Learn to build websites using the Go programming language by Caleb Doxsey
 
 
 
